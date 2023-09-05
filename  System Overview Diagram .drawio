@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T14:43:31.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.2" etag="CbSsr1rvE2VliInpCK69" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T14:53:18.281Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="qqsoJiW8R6wQdjkBrAwb" version="21.7.2" type="github">
   <diagram name="Trang-1" id="fliTURb_cvbP52fUOgku">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yqCD-gNZLuBuFUGkV8YD-1" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqCD-gNZLuBuFUGkV8YD-2" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; Tennant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="320" width="98" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqCD-gNZLuBuFUGkV8YD-3" value="Owner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="250" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqCD-gNZLuBuFUGkV8YD-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="190" width="16" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yqCD-gNZLuBuFUGkV8YD-10" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="330" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yqCD-gNZLuBuFUGkV8YD-14" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="260" width="20" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
