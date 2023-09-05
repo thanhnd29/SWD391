@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T15:06:47.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="1Dj-wbjAO9t8JSnAigJP" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T15:18:21.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="wGzftRFR646V9fDWXTY2" version="21.7.2" type="github">
   <diagram name="Trang-1" id="fliTURb_cvbP52fUOgku">
     <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yqCD-gNZLuBuFUGkV8YD-1" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="180" width="110" height="50" as="geometry" />
+          <mxGeometry x="40" y="90" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yqCD-gNZLuBuFUGkV8YD-2" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; Tennant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="320" width="98" height="50" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="480" y="250" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yqCD-gNZLuBuFUGkV8YD-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="190" width="16" height="20" as="geometry" />
+          <mxGeometry x="50" y="105" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yqCD-gNZLuBuFUGkV8YD-10" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="330" width="20" height="20" as="geometry" />
@@ -23,13 +23,28 @@
           <mxGeometry x="490" y="260" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yqCD-gNZLuBuFUGkV8YD-19" value="Staff&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yqCD-gNZLuBuFUGkV8YD-21" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="100" width="30" height="30" as="geometry" />
+          <mxGeometry x="600" y="115" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yqCD-gNZLuBuFUGkV8YD-23" value="Apartment ManagementDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="290" y="70" width="110" height="70" as="geometry" />
+          <mxGeometry x="350" y="30" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yqCD-gNZLuBuFUGkV8YD-27" value="Apartment Management App&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yqCD-gNZLuBuFUGkV8YD-32" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="150" as="sourcePoint" />
+            <mxPoint x="399.5" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yqCD-gNZLuBuFUGkV8YD-33" value="Apartments" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="240" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yqCD-gNZLuBuFUGkV8YD-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yqCD-gNZLuBuFUGkV8YD-33" target="yqCD-gNZLuBuFUGkV8YD-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
